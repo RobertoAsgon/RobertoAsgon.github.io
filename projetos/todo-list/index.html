@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Todo List - O Dev Junior</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://kit.fontawesome.com/d6ab7a8fae.js" crossorigin="anonymous"></script>
+        <link rel="shortcut icon" href="./imgs/favicon_r.ico" />
+        <link href='https://fonts.googleapis.com/css?family=Alata&display=swap' rel='stylesheet'>
+        <link href='https://fonts.googleapis.com/icon?family=Material+Icons' rel='stylesheet'>
+    </head>
+    <body>
+        <header>
+            <div class="header-container">
+                <h1 id="title" style="display: none;">Paleta de Cores</h1>
+                <a href="#"><img src="./imgs/white_logo.png" alt="Logo Trybe"></a>
+                <nav>
+                    <li><a href="/index.html">Home</a></li>
+                    <li><a href="/index.html"></a></li>
+                    <li><a href="/index.html"></a></li>
+                </nav>
+            </div>
+        </header>
+            <main>
+                <section>
+                    <img src="/imgs/todo-list-intro.png" alt="Logo">
+                    <p id="funcionamento">Clique duas vezes em um item para marcá-lo como completo</p>
+                    <div style="display:flex; justify-content: center;">
+                    <input id="texto-tarefa" placeholder="Descreva a atividade aqui..." type="text">
+                    <button type="submit" id="criar-tarefa">Adicionar</button>
+                    </div>
+                    <article id="lista-tarefas-container" style="display:flex; justify-content: center;">
+                    <ol id="lista-tarefas">
+                    </ol>
+                    </article>
+                    <div style="display: flex; justify-content: center; ">
+                        <button id="apaga-tudo">Apagar Tudo</button>
+                        <button id="remover-finalizados">Apagar Finalizados</button>
+                        <button id="salvar-tarefas">Salvar Lista</button>
+                        <button id="mover-cima">Mover para Cima</button>
+                        <button id="mover-baixo">Mover para Baixo</button>
+                        <button id="remover-selecionado">Remover Selecionado</button>
+                    </div>
+                </section>
+            </main>
+        <footer>
+            <ul>
+                <p style="padding-right: 15px;">© Roberto Asgon : </p> 
+                <li><a href="https://github.com/RobertoAsgon" target="_blank"><i class="fab fa-github-square"></i></a></li>
+                <li><a href="https://www.instagram.com/robertoasgon/" target="_blank"><i class="fab fa-instagram-square"></i></a></li> 
+                <li><a href="https://www.linkedin.com/in/roberto-assis-gon%C3%A7alves-286a641a1/" target="_blank"><i class="fab fa-linkedin"></i></a></li> 🚀
+            </ul>
+        </footer>
+        <script src="./script.js"></script>
+    </body>
+</html>
