@@ -305,19 +305,19 @@ button:hover {
     padding-top: 25px;
     padding-bottom: 25px;
     flex-direction: column;
-    width: 80%;
+    width: 90%;
 }
 
 .trybe-container {
     padding-top: 25px;
     padding-bottom: 0px;
-    width: 80%;
+    width: 90%;
 }
 
 .projetos-container {
     padding-top: 25px;
     padding-bottom: 25px;
-    width: 80%;
+    width: 90%;
 }
 
 .dev-text {
@@ -330,6 +330,7 @@ button:hover {
 
 .dev-image img{
     width: 100%;
+    height: 50%;
 }
 
 .dev-text {
