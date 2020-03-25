@@ -250,13 +250,13 @@ button:hover {
     }
     
     .trybe-container {
-        padding-top: 50px;
+        padding-top: 100px;
         padding-bottom: 0px;
         width: 100%;
     }
     
     .projetos-container {
-        padding-top: 50px;
+        padding-top: 75px;
         padding-bottom: 50px;
         width: 100%;
     }
@@ -309,13 +309,13 @@ button:hover {
 }
 
 .trybe-container {
-    padding-top: 25px;
+    padding-top: 100px;
     padding-bottom: 0px;
     width: 90%;
 }
 
 .projetos-container {
-    padding-top: 25px;
+    padding-top: 75px;
     padding-bottom: 25px;
     width: 90%;
 }
