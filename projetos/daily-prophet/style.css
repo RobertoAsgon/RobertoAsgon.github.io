@@ -58,16 +58,15 @@ a:hover{
 
 #textTittle {
     font-family: Harrytext,serif; 
-    font-size: 35vh;
-    padding-left: 25px;
-    
+    font-size: 238px;
+    text-align: center;
     opacity: 0.9; 
     width: 100%; 
 }
 
 #textSubTittle {
     font-family: Harrytext,serif; 
-    font-size: 20vh;
+    font-size: 144px;
     opacity: 0.9; 
     text-align: center;
     width: 100%; 
@@ -93,7 +92,7 @@ a:hover{
 
 #textTittleRight {
     font-family: Harrytext,serif; 
-    font-size: 8vh;
+    font-size: 44px;
     opacity: 0.9; 
     text-align: center; 
     width: 60%; 
@@ -102,7 +101,7 @@ a:hover{
 
 #textTittleLeft {
     font-family: Harrytext,serif; 
-    font-size: 8vh;
+    font-size: 44px;
     opacity: 0.9; 
     text-align: center; 
     width: 30%; 
@@ -131,7 +130,7 @@ a:hover{
 
 #tittleAside {
     font-family: Harrytext,serif; 
-    font-size: 6vh; 
+    font-size: 32px; 
     opacity: 0.9; 
     text-align: center;
 }
@@ -169,7 +168,7 @@ footer ul li a {
 }
 
 .destaqueMax:hover {
-	animation: destaqueMax 5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite none;
+	animation: destaqueMax 45s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite none;
 }
 
 .vibrate:hover {
