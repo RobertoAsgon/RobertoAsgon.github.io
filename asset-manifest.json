@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb3d208a.chunk.css",
+    "main.js": "/static/js/main.9040bdc5.chunk.js",
+    "main.js.map": "/static/js/main.9040bdc5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7af8a1c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7af8a1c4.js.map",
+    "static/js/2.e93d7ffe.chunk.js": "/static/js/2.e93d7ffe.chunk.js",
+    "static/js/2.e93d7ffe.chunk.js.map": "/static/js/2.e93d7ffe.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b588a5108972ecc40e4ebdf571ba2754.js": "/precache-manifest.b588a5108972ecc40e4ebdf571ba2754.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cb3d208a.chunk.css.map": "/static/css/main.cb3d208a.chunk.css.map",
+    "static/js/2.e93d7ffe.chunk.js.LICENSE.txt": "/static/js/2.e93d7ffe.chunk.js.LICENSE.txt",
+    "static/media/AboutMe.css": "/static/media/BalooTamma2-Regular.05aa77b1.ttf",
+    "static/media/dev-bro.png": "/static/media/dev-bro.279b5efd.png",
+    "static/media/launch_player.png": "/static/media/launch_player.ae040f35.png",
+    "static/media/perfil.jpg": "/static/media/perfil.53ec6126.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7af8a1c4.js",
+    "static/js/2.e93d7ffe.chunk.js",
+    "static/css/main.cb3d208a.chunk.css",
+    "static/js/main.9040bdc5.chunk.js"
+  ]
+}
