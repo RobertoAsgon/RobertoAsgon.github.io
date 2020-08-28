@@ -5,7 +5,7 @@ function Projects() {
   return (
     <section className="projects-section slide-in-fwd-bottom">
     
-      <p>Full-Stack JavaScript : NodeJS e ReactJS.</p>
+      //<p>Full-Stack JavaScript : NodeJS e ReactJS.</p>
       
       <p>
         Meme-Generator,
