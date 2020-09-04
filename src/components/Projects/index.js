@@ -1,26 +1,16 @@
 import React from 'react';
 import './Projects.css';
+import ImgResponsive from '../../assets/images/projects.png';
 
 function Projects() {
   return (
     <section className="projects-section slide-in-fwd-bottom">
-      <p>Full-Stack JavaScript : NodeJS e ReactJS.</p>
-      
-      <p>
-        Meme-Generator,
-        Pixel-Art,
-        To-Do-List,
-        Jo-Ken-Po,
-        Daily-Prophet,
-        Online-Store,
-        Trivia-Game,
-        Recipes-App,
-        Cookmaster,
-        Tryflix,
-        Trybeer,
-        Web-Chat,
-      </p>
-      
+      <h1>Projetos Full-Stack JavaScript</h1>
+      <img src={ImgResponsive} alt="img responsive"></img>
+      <div>
+        <a className="btn btn3">Front-end</a>
+        <a className="btn btn3">Full-stack</a>
+      </div>
     </section>
   );
 }

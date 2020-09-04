@@ -18,11 +18,14 @@
 }
 
 #right {
+  position: relative;
   color: white;
   font-size: larger;
   margin: 15px;
   padding: 15px;
   width: 500px;
+  left: 50px;
+  top: 25px;
 }
 
 #right > P {
@@ -41,9 +44,9 @@
 
 #left > img {
   position: relative;
-  right: 250px;
+  right: 150px;
   top:50px;
-  width: 700px;
+  width: 600px;
 }
 
 #element {
@@ -63,7 +66,7 @@
 }
 
 #animated-word {
-	color: black;
+	color: white;
 	font-family: Helvetica;
 	font-size: 22px;
 	font-weight: 600;
@@ -72,7 +75,7 @@
   cursor: pointer;
   margin: 15px;
   outline-color: #7ef3d0;
-  outline: 3px solid;
+  outline: 0px solid;
   padding: 15px;
   position: relative;
   text-decoration: none;
@@ -84,8 +87,9 @@
 #animated-word:hover {
 	color: #1fe097;
   border: #1fe097 solid 1px;
+  outline: 7px solid;
   outline-color: rgba(71, 126, 232, 0);
-  outline-offset: 50px;
+  outline-offset: 100px;
   outline-style: hidden;
   background-color: rgb(32, 32, 0, 0);
 }
