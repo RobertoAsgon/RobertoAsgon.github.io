@@ -50,7 +50,7 @@
 }
 
 #element {
-  animation: launch_rocket 2s infinite;
+  animation: launch_rocket 1.75s infinite;
   animation-direction: alternate;
 }
 
