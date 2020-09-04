@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/RobertoAsgon.github.io/static/css/main.a5ae218f.chunk.css",
-    "main.js": "/RobertoAsgon.github.io/static/js/main.ab020736.chunk.js",
-    "main.js.map": "/RobertoAsgon.github.io/static/js/main.ab020736.chunk.js.map",
+    "main.css": "/RobertoAsgon.github.io/static/css/main.595e6c95.chunk.css",
+    "main.js": "/RobertoAsgon.github.io/static/js/main.d7ef5fcf.chunk.js",
+    "main.js.map": "/RobertoAsgon.github.io/static/js/main.d7ef5fcf.chunk.js.map",
     "runtime-main.js": "/RobertoAsgon.github.io/static/js/runtime-main.bcf9fd4b.js",
     "runtime-main.js.map": "/RobertoAsgon.github.io/static/js/runtime-main.bcf9fd4b.js.map",
-    "static/js/2.e93d7ffe.chunk.js": "/RobertoAsgon.github.io/static/js/2.e93d7ffe.chunk.js",
-    "static/js/2.e93d7ffe.chunk.js.map": "/RobertoAsgon.github.io/static/js/2.e93d7ffe.chunk.js.map",
+    "static/js/2.dbc6fac3.chunk.js": "/RobertoAsgon.github.io/static/js/2.dbc6fac3.chunk.js",
+    "static/js/2.dbc6fac3.chunk.js.map": "/RobertoAsgon.github.io/static/js/2.dbc6fac3.chunk.js.map",
     "index.html": "/RobertoAsgon.github.io/index.html",
-    "precache-manifest.723ea124590c2bd667538584221a17c4.js": "/RobertoAsgon.github.io/precache-manifest.723ea124590c2bd667538584221a17c4.js",
+    "precache-manifest.2c952417281bb9960883eb10768f4c80.js": "/RobertoAsgon.github.io/precache-manifest.2c952417281bb9960883eb10768f4c80.js",
     "service-worker.js": "/RobertoAsgon.github.io/service-worker.js",
-    "static/css/main.a5ae218f.chunk.css.map": "/RobertoAsgon.github.io/static/css/main.a5ae218f.chunk.css.map",
-    "static/js/2.e93d7ffe.chunk.js.LICENSE.txt": "/RobertoAsgon.github.io/static/js/2.e93d7ffe.chunk.js.LICENSE.txt",
+    "static/css/main.595e6c95.chunk.css.map": "/RobertoAsgon.github.io/static/css/main.595e6c95.chunk.css.map",
+    "static/js/2.dbc6fac3.chunk.js.LICENSE.txt": "/RobertoAsgon.github.io/static/js/2.dbc6fac3.chunk.js.LICENSE.txt",
     "static/media/AboutMe.css": "/RobertoAsgon.github.io/static/media/BalooTamma2-Regular.05aa77b1.ttf",
     "static/media/dev-bro.png": "/RobertoAsgon.github.io/static/media/dev-bro.279b5efd.png",
     "static/media/launch_player.png": "/RobertoAsgon.github.io/static/media/launch_player.ae040f35.png",
-    "static/media/perfil.jpg": "/RobertoAsgon.github.io/static/media/perfil.53ec6126.jpg"
+    "static/media/perfil.jpg": "/RobertoAsgon.github.io/static/media/perfil.53ec6126.jpg",
+    "static/media/projects.png": "/RobertoAsgon.github.io/static/media/projects.c00aa138.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bcf9fd4b.js",
-    "static/js/2.e93d7ffe.chunk.js",
-    "static/css/main.a5ae218f.chunk.css",
-    "static/js/main.ab020736.chunk.js"
+    "static/js/2.dbc6fac3.chunk.js",
+    "static/css/main.595e6c95.chunk.css",
+    "static/js/main.d7ef5fcf.chunk.js"
   ]
 }

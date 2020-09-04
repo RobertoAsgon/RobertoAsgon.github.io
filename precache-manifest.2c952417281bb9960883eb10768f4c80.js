@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29c2878024d61524b89af5640330e111",
+    "revision": "4483efe95a6bdce36ba5dd9061707396",
     "url": "/RobertoAsgon.github.io/index.html"
   },
   {
-    "revision": "74e708c79701baa2124a",
-    "url": "/RobertoAsgon.github.io/static/css/main.a5ae218f.chunk.css"
+    "revision": "d7c4fc0093bb6dc4dc52",
+    "url": "/RobertoAsgon.github.io/static/css/main.595e6c95.chunk.css"
   },
   {
-    "revision": "c5b87c589d0cbc2dd053",
-    "url": "/RobertoAsgon.github.io/static/js/2.e93d7ffe.chunk.js"
+    "revision": "1ed54fb1eefb1a940abf",
+    "url": "/RobertoAsgon.github.io/static/js/2.dbc6fac3.chunk.js"
   },
   {
     "revision": "90f8df42b25649df7004ebf7bb2be3cf",
-    "url": "/RobertoAsgon.github.io/static/js/2.e93d7ffe.chunk.js.LICENSE.txt"
+    "url": "/RobertoAsgon.github.io/static/js/2.dbc6fac3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74e708c79701baa2124a",
-    "url": "/RobertoAsgon.github.io/static/js/main.ab020736.chunk.js"
+    "revision": "d7c4fc0093bb6dc4dc52",
+    "url": "/RobertoAsgon.github.io/static/js/main.d7ef5fcf.chunk.js"
   },
   {
     "revision": "3c1b1086a35557a53dc0",
@@ -38,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "53ec61264c5a7b1589ad6f289be248b9",
     "url": "/RobertoAsgon.github.io/static/media/perfil.53ec6126.jpg"
+  },
+  {
+    "revision": "c00aa138eacf31c19376112a3941d3bc",
+    "url": "/RobertoAsgon.github.io/static/media/projects.c00aa138.png"
   }
 ]);
