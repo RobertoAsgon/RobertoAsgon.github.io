@@ -44,8 +44,8 @@
 
 #left > img {
   position: relative;
-  right: 150px;
-  top:50px;
+  right: 120px;
+  top: 75px;
   width: 600px;
 }
 
@@ -56,11 +56,11 @@
 
 @keyframes launch_rocket {
     0% {
-        transform: translate(-25px, 15px);
+        transform: translate(-30px, 15px);
         opacity: 0.6;
     }
     100% {
-        transform: translate(15px, -25px);
+        transform: translate(15px, -30px);
         opacity: 1;
     }
 }

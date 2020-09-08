@@ -15,7 +15,7 @@ function Trybe() {
           <Link id="animated-word">Conheça a Trybe</Link>
         </div> 
         <div id="left">
-          <img  id="element" src={Launch} alt="launch" freepik="https://stories.freepik.com/?_ga=2.128526796.1541234574.1599194576-1495242072.1598773429" ></img>
+          <img id="element" src={Launch} alt="launch" freepik="https://stories.freepik.com/?_ga=2.128526796.1541234574.1599194576-1495242072.1598773429" ></img>
         </div>
       </article>
     </section>
