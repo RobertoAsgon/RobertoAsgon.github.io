@@ -6,6 +6,7 @@ import Trybe from '../components/Trybe/index';
 import Projects from '../components/Projects/index';
 import './App.css';
 
+// Refatorar
 function App() {
   return ( 
     <Router>
